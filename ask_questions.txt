@@ -1,0 +1,5 @@
+What would you like to ask something? Y/N question
+Do you want help in deciding something? Ask away.
+What do you want to ask? Y/N question.
+Ask me a yes or no question.
+What do you want to ask? Enter a Y/N question.
